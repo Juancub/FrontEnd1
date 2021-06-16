@@ -1,0 +1,87 @@
+#foto {
+    width: 100px;
+    height: 147px;
+    position: relative;
+    top: 21px;
+    bottom: 21px;
+}
+#pfoto {
+    background-image: url(../IMG/Background.png);
+    background-repeat: repeat;
+    height: 189px;
+    margin-bottom: 0px;
+    text-align: center;
+}
+h1 {
+    margin-top: 0%;
+    font-family: 'Times New Roman', Times, serif;
+    color: #005677;
+    background-color: #C4C4C4;
+    text-align: center;
+    font-weight: 700;
+    size: 35px;
+}
+h2  {
+    font-family: 'Times New Roman', Times, serif;
+    color: #005677;
+    font-size: 20px;
+    background-image: url("../IMG/Rectangle3.png");
+    background-size: 1041px 30px;
+    background-repeat: no-repeat;
+    /*background-position: 225px 352px;*/
+    /*margin: 10px;*/
+    padding: 16.94px;
+    background-position: 225px;
+    /*top: 352px;
+    left: 225px;*/
+    text-indent: 225px;
+    font-weight: 700;
+}
+
+#datospersonales {
+    margin-left: 240px;
+    font-size: 15px;
+}
+
+.dato {
+    padding-bottom: 5px;
+}
+
+#formacion {
+    margin-left: 240px;
+}
+
+#experiencia {
+    margin-left: 240px;
+}
+
+.f1 {
+    margin-left: 80px;
+}
+
+footer {
+    background-image: url(../IMG/Rectangle\ 2.png);
+    /*background-color: #005677;*/
+    background-repeat: repeat;
+    padding: 4px;
+    text-align: center;
+    font-size: 20px;
+    font-weight: 700;
+    color: #FFFFFF;
+}
+
+img.i1{
+    position: relative;
+    width: 20px;
+    height: 20px;
+    top: 2.75px;
+    left: 12px;
+}
+
+img.i2{
+    position: relative;
+    width: 20px;
+    height: 20px;
+    top: 2.75px;
+    left: 30px;
+}
